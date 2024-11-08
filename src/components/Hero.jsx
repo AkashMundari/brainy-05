@@ -21,11 +21,11 @@ const Hero = () => {
                 Free Webinar
               </span>
             </div>
-            <div className="poppins-medium mt-7 text-2xl md:text-4xl p-5 flex justify-center">
+            <div className="poppins-medium mt-7 text-xl md:text-4xl p-5 flex justify-center">
               <div className=" p-3">
                 Explore how brain training
                 <br />
-                <div className="text-xl md:text-2xl text-left pl-7 md:pl-9">
+                <div className="text-lg md:text-2xl text-left pl-7 md:pl-9">
                   <ul className="list-disc text-left">
                     <li>Enhances cognitive skills</li>
                     <li>Elevates academic success</li>
