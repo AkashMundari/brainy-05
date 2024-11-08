@@ -275,7 +275,7 @@ const KeyBenefits = () => {
                   <div className="flex-shrink-0 flex items-center justify-center w-8 h-8 rounded-full bg-black/50 text-white">
                     {benefit.id}
                   </div>
-                  <div className="pt-1">
+                  <div className="flex flex-col justify-center">
                     <h3 className="font-semibold text-md sm:text-base">
                       {benefit.title}
                     </h3>
